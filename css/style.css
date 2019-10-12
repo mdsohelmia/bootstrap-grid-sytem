@@ -1,0 +1,12 @@
+.box {
+    min-height: 40px;
+    margin: 10px 0;
+    text-align: center;
+    line-height: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.box-1 { background-color: #1dd1a1;}
+.box-2 { background-color: #ff6b6b;}
+.box-3 { background-color: #706fd3;}
